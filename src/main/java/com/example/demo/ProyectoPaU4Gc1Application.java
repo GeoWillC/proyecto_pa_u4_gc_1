@@ -44,8 +44,8 @@ public class ProyectoPaU4Gc1Application implements CommandLineRunner{
 //		this.iPersonaService.eliminar(2);
 //		this.iPersonaService.eliminar(3);
 //		this.iPersonaService.eliminar(4);
-		List<Persona> lista=this.iPersonaService.buscarTodos();
-		lista.forEach(persona->System.out.println(persona));
+//		List<Persona> lista=this.iPersonaService.buscarTodos();
+//		lista.forEach(persona->System.out.println(persona));
 
 	}
 
